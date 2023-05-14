@@ -53,4 +53,5 @@ To view a live example, [click here](https://munenecalvin.github.io/Final-Portfo
 - 🔃 Create a new pull request.
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed under the MIT License
+
